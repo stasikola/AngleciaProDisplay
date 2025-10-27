@@ -1,56 +1,89 @@
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-Black.otf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-BlackItalic.otf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-Bold.otf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-BoldItalic.otf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-ExtraLight.otf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-ExtraLightIt.otf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-Italic.otf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "AngleciaProDisplay";
+  src: url("../fount/Anglecia-Pro-Display-2.otf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-Light.otf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
 }
+
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-LightItalic.otf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-Medium.otf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-MediumItalic.otf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-SemiBold.otf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
 }
 @font-face {
   font-family: "AngleciaProDisplay";
   src: url("../fount/AngleciaProDisplay-SemiBoldItal.otf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
 }
 @font-face {
-  font-family: "AngleciaProDisplay";
+  font-family: "AngleciaProDisplayText";
   src: url("../fount/AngleciaProText.otf") format("truetype");
 }
