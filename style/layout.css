@@ -16,11 +16,18 @@
 } */
 
 /* общий фон */
+html {
+  scroll-behavior: smooth;
+}
 body {
   background-color: #e9ddcc;
   font-family: "AngleciaProDisplay";
   margin: 0 auto;
   width: 1280px;
+}
+a {
+  color: inherit;
+  text-decoration: none;
 }
 /* блок первый */
 
